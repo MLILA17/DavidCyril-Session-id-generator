@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By FEARLESS*
+*_Session Connected By DML*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ZENITSU CRASH V2 』*
+║ *『 AMAZING YOU'VE CHOSEN DML CRASH V2 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
-║❒ *Owner:* https://wa.me/2348075952205_
+║❒ *Ytube:* _https://www.youtube.com/@DaudyMussa-h1r
+║❒ *Owner:* https://wa.me/255785591288_
 ║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║❒ *WaGroup:* _https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C
+║❒ *Plugins:* _https://github.com/MLILA17/DML-MD 
 ╚════════════════════════╝
 _____________________________________
 	
